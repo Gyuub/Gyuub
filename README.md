@@ -1,9 +1,9 @@
 ### 안녕하세요 !  👋
 
 
-#### 이력
- 2022.03 ~                 유안타증권 
- 2018.01 ~ 2021.08 주식회사 리얼팜
+#### 발자취
+ - 2022.03 ~                 유안타증권
+ - 2018.01 ~ 2021.08 주식회사 리얼팜
 <!--
 **Gyuub/Gyuub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
