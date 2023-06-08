@@ -2,7 +2,8 @@
 
 
 #### 발자취
- - 2022.03 ~                  / 빅픽처팀
+ - 2023.05 ~ 도전
+ - 2022.03 ~ 2023.05         / 빅픽처팀
  - 2018.01 ~ 2021.08 스마트팜 / 주식회사 리얼팜
 <!--
 **Gyuub/Gyuub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
